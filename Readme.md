@@ -8,4 +8,4 @@ Kopieren Sie die Datei unter dem Namen `.eslintrc` in Ihr Projektverzeichnis. Ri
 - [Adobe Brackets](https://github.com/zaggino/brackets-eslint)
 - [Atom](https://atom.io/packages/linter-eslint)
 - [Sublime Text](https://github.com/roadhump/SublimeLinter-eslint)
- 
+- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) 
